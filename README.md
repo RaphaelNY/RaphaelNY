@@ -31,8 +31,8 @@
 </div>
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=RaphaelNY&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true' height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNY&theme=radical" height="250"/>
+  <img src='https://github-readme-stats.vercel.app/api?username=RaphaelNY&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true' height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNY&theme=radical" height="200"/>
 </div>
 
 <!--
