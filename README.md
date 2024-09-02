@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASUS-0096D6?style=for-the-badge&logo=asus&logoColor=white"/>
+  <p></p>
+  <img  src='https://github-readme-stats.vercel.app/api?username=RaphaelNY&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true'/>
 </div>
 <!--
 **RaphaelNY/RaphaelNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img  src='https://github-readme-stats.vercel.app/api?username=RaphaelNY&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true'/>
+
