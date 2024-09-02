@@ -1,5 +1,26 @@
-![Metrics](https://metrics.lecoq.io/RaphaelNY?template=classic&languages=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai)
+### Hi 👋 Here is RaphaelNY
 
+🏡 Here can find me😎. [RaphaelNY's Blog🏛️](https://blog.sqsleepy.top)
+
+<div align="left">
+  <p></p>
+  <h3 align="left">🔮 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust"/>
+  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=Typescript&logoColor=black"/>
+  <p></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+ 
+<h3 align="left">🕹️Using</h3>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <p></p>
+  <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASUS-0096D6?style=for-the-badge&logo=asus&logoColor=white"/>
+</div>
 <!--
 **RaphaelNY/RaphaelNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
