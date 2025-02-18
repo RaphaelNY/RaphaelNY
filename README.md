@@ -34,6 +34,14 @@
   <img src='https://github-readme-stats.vercel.app/api?username=RaphaelNY&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true' height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNY&theme=radical" height="200"/>
 </div>
+<p>
+
+  
+---
+
+<div  align="center">
+  <img style="width: 600px;  height: 490px;" src="https://wakatime.com/share/@6068e616-7a9f-4496-8628-55d6404bbf1f/506276d5-17de-4327-a7b4-b80db6d0641f.svg"/>
+</div>
 
 <!--
 **RaphaelNY/RaphaelNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
